@@ -1,0 +1,8 @@
+{
+  "name": "talel-mods",
+  "owner": { "name": "Talel" },
+  "plugins": [
+    { "name": "workbench", "source": "./workbench" },
+    { "name": "drafting-table", "source": "./drafting-table" }
+  ]
+}

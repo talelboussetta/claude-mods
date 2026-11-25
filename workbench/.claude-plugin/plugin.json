@@ -1,0 +1,6 @@
+{
+  "name": "workbench",
+  "version": "0.1.0",
+  "description": "Four live backdrops that react to your prompts (chess, chalkboard, mountain journey, blueprint), with a switcher above the prompt to pick one.",
+  "types": "./types/index.d.ts"
+}

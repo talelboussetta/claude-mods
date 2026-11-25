@@ -1,0 +1,6 @@
+{
+  "name": "drafting-table",
+  "version": "0.1.0",
+  "description": "Blueprint look for Claude Desktop whose backdrop drawing gets built up by the work you do each day, with a work-log band and pane.",
+  "types": "./types/index.d.ts"
+}
